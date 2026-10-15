@@ -1,0 +1,229 @@
+{
+ "updated": "2026-10-15T09:35:16Z",
+ "items": [
+  {
+   "at": "2026-10-14T17:22:00Z",
+   "title": "Launch-Dungeons-Video",
+   "channel": "Presse",
+   "status": "Offiziell (zitiert)",
+   "detail": "MMO-Champion meldet ein Blizzard-Video auf dem offiziellen Warcraft-YouTube-Kanal, das einige neue Dungeons von WoW Forever vorstellt; einzelne Dungeons werden dort nicht genannt",
+   "link": "https://www.mmo-champion.com/content/14607-World-of-Warcraft-Forever-Launch-Dungeons"
+  },
+  {
+   "at": "2026-10-14T12:00:00Z",
+   "title": "Beta-Wartung 14. Oktober",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Beta-Realms wegen interner Tests ab 8:00 Uhr PDT offline, laut Beitrag nicht länger als ein paar Stunden, keine Spieländerungen genannt",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2382032-beta-maintenance-october-14/"
+  },
+  {
+   "at": "2026-10-14T12:00:00Z",
+   "title": "Server-Slam-Bericht",
+   "channel": "Presse",
+   "status": "Bericht",
+   "detail": "Wowhead-Bericht (via MassivelyOP, 14.10.): Server Slam am Montag, 19.10., mehrere Stunden, Option 'WoW Forever Stress Test' im Battle.net-Installer; Uhrzeit offen, von Blizzard nicht bestätigt",
+   "link": "https://massivelyop.com/2026/10/14/world-of-warcraft-forever-schedules-a-server-slam-stress-test-for-next-week/"
+  },
+  {
+   "at": "2026-10-13T12:00:00Z",
+   "title": "Temporäre Wirtschaftssperren gegen RMT",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Verdächtige Accounts verlieren vorübergehend Handel, Post, Gildenbank und Auktionshaus; Fehlalarme in der Feinabstimmung möglich, Ausweitung auf alle WoW-Versionen bei Erfolg angekündigt",
+   "link": "https://www.bluetracker.gg/wow/topic/eu-en/635356-temporary-economy-holds-for-rmt/"
+  },
+  {
+   "at": "2026-10-12T12:00:00Z",
+   "title": "Entwickler-Interviews zu Alts und Progression",
+   "channel": "Presse",
+   "status": "Offiziell (zitiert)",
+   "detail": "PC Gamer zitiert Entwickler zu Alts als Teil der Kernprogression",
+   "link": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/"
+  },
+  {
+   "at": "2026-10-08T12:00:00Z",
+   "title": "Fast 4.000 Accounts wegen RMT gesperrt",
+   "channel": "Presse",
+   "status": "Offiziell (zitiert)",
+   "detail": "Icy Veins zitiert Entwickler Josh Greenfield: Knapp 4.000 Beta-Accounts wegen Echtgeldhandels geschlossen, Warnung beim Handeln gegen Fehlsperren soll folgen",
+   "link": "https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/"
+  },
+  {
+   "at": "2026-10-08T12:00:00Z",
+   "title": "Development Notes aktualisiert",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Aktualisierte Entwicklungsnotizen zur Beta, Stand 8. Oktober",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2360696-wow-forever-beta-development-notes-updated-october-8/"
+  },
+  {
+   "at": "2026-10-08T12:00:00Z",
+   "title": "Known Issues",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Liste bekannter Beta-Probleme, Stand 8. Oktober",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2352687-wow-forever-beta-known-issues-october-8/"
+  },
+  {
+   "at": "2026-10-08T12:00:00Z",
+   "title": "Realm-Wartung, Levelcap 30",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Wartung am 8. Oktober, laut Zusammenfassung mit Levelcap 30 in der Beta",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2375900-beta-realm-maintenance-october-8/"
+  },
+  {
+   "at": "2026-10-08T12:00:00Z",
+   "title": "Inven-Interview mit Longdale und Stone",
+   "channel": "Presse",
+   "status": "Offiziell (zitiert)",
+   "detail": "Interview zur Entwicklungsrichtung nach der Beta",
+   "link": "https://www.invenglobal.com/articles/26963/post-beta-wow-forever-what-is-the-development-direction"
+  },
+  {
+   "at": "2026-10-08T12:00:00Z",
+   "title": "Podcast Episode 3",
+   "channel": "Podcast",
+   "status": "Offiziell",
+   "detail": "Dritte Folge des offiziellen WoW-Forever-Podcasts",
+   "link": ""
+  },
+  {
+   "at": "2026-10-07T12:00:00Z",
+   "title": "Class Deep Dives: Magier und Schamane",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Beta-Stand: neuer Hybridzauber Frostfeuerblitz, länger haltende Totems und Waffenverstärkungen sowie überarbeitetes Talentsystem, Änderungen vorbehalten",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24302097-world-of-warcraft-forever-class-deep-dives-mage-and-shaman/"
+  },
+  {
+   "at": "2026-10-07T12:00:00Z",
+   "title": "Skyborne: Visuelle Updates",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "HD-Druidenformen werden überarbeitet, SD-Skyborne-Spielercharaktere inklusive SD-Druidenformen sind für Anfang 2027 geplant",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24302546-world-of-warcraft-forever-the-future-of-skyborne-visual-updates/"
+  },
+  {
+   "at": "2026-10-07T12:00:00Z",
+   "title": "Schlacht um die Darkspear-Inseln",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Neues 15-gegen-15-Schlachtfeld vor der Küste von Dustwallow Marsh um Eroberungspunkte und eine zentrale Flagge mit Fraktionsruf als Belohnung",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24307308-battle-for-the-darkspear-islands-in-world-of-warcraft-forever/"
+  },
+  {
+   "at": "2026-10-07T12:00:00Z",
+   "title": "PvP-Progression erklärt",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Ehre kauft Ausrüstung, Rangpunkte bringen Spieler durch die klassischen Ränge, saisonale Wochenaufgaben geben zusätzliche Belohnungen",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24303316-how-pvp-progression-in-world-of-warcraft-forever-works/"
+  },
+  {
+   "at": "2026-10-07T12:00:00Z",
+   "title": "Class Deep Dives: Schurke und Hexenmeister",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Beta-Stand zu Giften, Bannen, Waffenverstärkungen und Talenten ab Stufe 10 mit Doppelspezialisierung ab Stufe 40, Änderungen vorbehalten",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24310968-world-of-warcraft-forever-class-deep-dives-rogue-and-warlock/"
+  },
+  {
+   "at": "2026-10-02T12:00:00Z",
+   "title": "Beta-Update vom 1. Oktober: Levelcap 30",
+   "channel": "Presse",
+   "status": "Bericht",
+   "detail": "PC Games berichtet über Patchnotes mit Levelcap 30, Klassenanpassungen, Bugfixes und einem neuen Dungeon",
+   "link": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/WoW-Forever-Patch-Notes-Level-30-Update-1555574/"
+  },
+  {
+   "at": "2026-10-02T12:00:00Z",
+   "title": "Krieger-Updates im Beta-Build",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Änderungen am Krieger im aktuellen Beta-Build",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2369360-warrior-updates-in-todays-beta-build/"
+  },
+  {
+   "at": "2026-10-01T12:00:00Z",
+   "title": "Legacy Points für Beta-Tests",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Hinweis zu Legacy Points für Beta-Teilnehmer",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2368776-legacy-points-for-beta-testing/"
+  },
+  {
+   "at": "2026-10-01T12:00:00Z",
+   "title": "Podcast Episode 2",
+   "channel": "Podcast",
+   "status": "Offiziell",
+   "detail": "Zweite Folge des offiziellen Podcasts",
+   "link": ""
+  },
+  {
+   "at": "2026-09-24T12:00:00Z",
+   "title": "Podcast Episode 1",
+   "channel": "Podcast",
+   "status": "Offiziell",
+   "detail": "Erste Folge, Besprechung des Beta-Starts",
+   "link": "https://www.icy-veins.com/wow-forever/news/unpacking-beta-launch-the-wow-forever-podcast-episode-1/"
+  },
+  {
+   "at": "2026-09-24T12:00:00Z",
+   "title": "Beta ist online, Development Notes",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Beta-Start mit veröffentlichten Entwicklungsnotizen",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2360719-beta-is-up-development-notes-posted/"
+  },
+  {
+   "at": "2026-09-24T12:00:00Z",
+   "title": "Account-Maßnahmen bei Namensverstößen",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Maßnahmen gegen Accounts mit Namensverstößen in der Beta",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2360739-wow-forever-beta-account-actions-for-name-violations/"
+  },
+  {
+   "at": "2026-09-19T12:00:00Z",
+   "title": "Holly Longdale auf X",
+   "channel": "X",
+   "status": "Offiziell (zitiert)",
+   "detail": "Datum aus der Post-ID abgeleitet, Inhalt nur aus Suchergebnis, Post selbst nicht abrufbar",
+   "link": "https://x.com/TheWindstalker/status/2101208326856114258"
+  },
+  {
+   "at": "2026-09-19T12:00:00Z",
+   "title": "Tom Ellis erklärt auf X",
+   "channel": "X",
+   "status": "Offiziell (zitiert)",
+   "detail": "Nur die Überschrift der Meldung verifiziert, Details offen",
+   "link": ""
+  },
+  {
+   "at": "2026-09-17T12:00:00Z",
+   "title": "Beta jetzt live",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Offizielle Ankündigung des Beta-Starts",
+   "link": "https://news.blizzard.com/en-us/article/24304160/the-world-of-warcraft-forever-beta-now-live"
+  },
+  {
+   "at": "2026-09-17T12:00:00Z",
+   "title": "Live-Q&A zum Beta-Start",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Live-Fragerunde zum Beta-Start",
+   "link": ""
+  },
+  {
+   "at": "2026-09-12T12:00:00Z",
+   "title": "Vorkauf der Upgrades",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Vorkauf der WoW-Forever-Upgrades angekündigt",
+   "link": "https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth"
+  }
+ ]
+}
