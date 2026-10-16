@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-15T09:35:16Z",
+ "updated": "2026-10-16T07:43:34Z",
  "items": [
+  {
+   "at": "2026-10-15T12:00:00Z",
+   "title": "Stresstest am 19. Oktober offiziell",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Server Slam bestätigt: 19.10. ab 14:00 Uhr PDT (19:00 Uhr deutscher Zeit), offen für alle ohne Abo oder Beta-Zugang, Ende offen und Charaktere werden danach gelöscht; Namensreservierung für Vorkäufer vom 27.10. bis 3.11.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24302072-join-the-world-of-warcraft-forever-stress-test/"
+  },
+  {
+   "at": "2026-10-15T12:00:00Z",
+   "title": "Class Deep Dive: Paladin",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Neues Siegel der Wut ab Stufe 10, Siegelzwirbeln wird durch das Vergeltungs-Talent Twist of Light ersetzt, Weihe ist ab Stufe 20 Basisfähigkeit",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24302099-world-of-warcraft-forever-class-deep-dives-paladin/"
+  },
+  {
+   "at": "2026-10-15T12:00:00Z",
+   "title": "Development Notes aktualisiert (15. Oktober)",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Aktualisierte Beta-Entwicklungsnotizen, Stand 15. Oktober",
+   "link": "https://www.bluetracker.gg/wow/topic/eu-en/631316-wow-forever-beta-development-notes-updated-15-october/"
+  },
+  {
+   "at": "2026-10-15T12:00:00Z",
+   "title": "Beta-Realm-Wartung 15. Oktober",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Wartung der Beta-Realms am 15. Oktober",
+   "link": "https://www.bluetracker.gg/wow/topic/eu-en/635803-beta-realm-maintenance-15-october/"
+  },
+  {
+   "at": "2026-10-15T12:00:00Z",
+   "title": "Podcast Episode 4: PvP",
+   "channel": "Podcast",
+   "status": "Offiziell",
+   "detail": "Vierte Folge des offiziellen Podcasts mit PvP-Schwerpunkt",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24304079-explore-pvp-in-episode-4-of-the-wow-forever-podcast/"
+  },
   {
    "at": "2026-10-14T17:22:00Z",
    "title": "Launch-Dungeons-Video",
