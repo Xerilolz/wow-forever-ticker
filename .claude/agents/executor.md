@@ -1,7 +1,7 @@
 ---
 name: executor
 description: Ausführender Agent für klar umrissene, bereits geplante Aufgaben – Dateien ändern, Befehle ausführen, Daten aktualisieren (z. B. ticker.json, feed.xml). Einsetzen, wenn das Vorgehen feststeht und nur noch umgesetzt werden muss. Nicht für offene Design- oder Architekturfragen.
-model: sonnet
+model: haiku
 tools: Read, Write, Edit, Glob, Grep, Bash
 ---
 
