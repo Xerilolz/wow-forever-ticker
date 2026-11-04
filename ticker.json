@@ -1,6 +1,198 @@
 {
- "updated": "2026-10-17T07:43:23Z",
+ "updated": "2026-11-03T22:14:23Z",
  "items": [
+  {
+   "at": "2026-11-03T12:00:00Z",
+   "title": "Beta Development Notes aktualisiert (3. November)",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Kaivax: Fehlerbehebungen (u. a. Quitter-Debuff 5 Min auf 40 Sek), höherer Klassenschaden mit mehr Kreaturen-Leben, Ausbildungskosten Stufe 1-60 ca. 206-207 Gold für alle Klassen, Druiden- und Jäger-Anpassungen.",
+   "link": "https://www.bluetracker.gg/wow/topic/eu-en/631316-wow-forever-beta-development-notes-updated-3-november/"
+  },
+  {
+   "at": "2026-10-30T12:00:00Z",
+   "title": "WoW Weekly: Auf Forever vorbereiten",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Blizzard bestätigt den weltweiten Start am 4. November um 15:00 PST und verweist auf Einsteigerguide, Rückkehrer-Artikel und den WoW Portal Room.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24316094-prepare-for-forever-try-midnights-talebound-and-discover-sweet-treats-in-wow-weekly/"
+  },
+  {
+   "at": "2026-10-29T12:00:00Z",
+   "title": "Globaler Start am 4. November: Startzeiten",
+   "channel": "Blizzard News",
+   "status": "Bestätigt (Blizzard)",
+   "detail": "Start 4.11. um 15:00 PST (23:00 UTC, 0:00 Uhr MEZ am 5.11.); keine Realmwahl, sondern Ruleset (Normal, PvP, RP, RP-PvP), Hardcore folgt später, drei Raids ab 9. Dezember für Stufe 60.",
+   "link": "https://worldofwarcraft.blizzard.com/en-us/news/24315820/world-of-warcraft-forever-goes-live-globally-november-4"
+  },
+  {
+   "at": "2026-10-28T01:28:00Z",
+   "title": "Zu strenge Namensprüfung: Fix kommt",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Kaivax: Ein Fehler in der Sperrliste blockierte fälschlich Namen mit 'con'; der Fix kommt mit den nächsten Realm-Neustarts, danach Namen erneut versuchen.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2394467-overly-restrictive-name-check-and-fix-incoming-october-27/"
+  },
+  {
+   "at": "2026-10-27T20:02:00Z",
+   "title": "Namensreservierung: Problem für Ozeanien",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Kaivax: Auf australischen Servern müssen Roleplay- oder Roleplay-PvP-Charaktere vor Normal/PvP erstellt werden, sonst verschwinden diese Optionen; Fix laut Blizzard dringend in Arbeit.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2393431-name-reservation-issue-for-oceanic-players/"
+  },
+  {
+   "at": "2026-10-27T19:00:00Z",
+   "title": "WoW Portal Room (Discord-Community)",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Blizzard bewirbt den WoW Portal Room als Discord-Community für Neulinge und Veteranen.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2393349-your-next-adventure-in-wow-forever-starts-in-the-wow-portal-room/"
+  },
+  {
+   "at": "2026-10-26T20:35:00Z",
+   "title": "Development Notes: Völkerfähigkeiten angepasst",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Kaivax: Update vom 26.10. ändert Rassenfähigkeiten (u. a. Mensch, Zwerg, Tauren, Orc, Troll, Untoter, Skyborne); am 27.10. folgten Korrekturen, z. B. Blutrausch 2 Min. Abklingzeit, Berserker 15 Sek.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2360696-wow-forever-beta-development-notes-updated-october-26/"
+  },
+  {
+   "at": "2026-10-26T19:00:00Z",
+   "title": "Poster-Signing am 2. November in Irvine",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Blizzard lädt zu einem Event mit kostenlosen Tickets am 2.11. im Irvine Improv; Tickets über TIXR ab 27.10., 12:00 Uhr PDT.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24302547-get-your-ticket-to-the-wow-forever-poster-signing-at-the-irvine-improv/"
+  },
+  {
+   "at": "2026-10-26T17:00:00Z",
+   "title": "Kurzgeschichte 'Unbowed' als Video",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Vertonte Kurzgeschichte um den Forsaken Cormack, geschrieben von Sean Copeland.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24313105-watch-the-wow-forever-short-story-unbowed/"
+  },
+  {
+   "at": "2026-10-23T17:01:00Z",
+   "title": "Beta beendet, Charaktererstellung ab 27. Oktober",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Community-Manager Kaivax: Die Beta ist beendet, das Team kümmert sich bis zum Launch am 4. November um priorisierte Probleme; Charaktererstellung mit Ruleset-Wahl und Namensreservierung öffnet am Dienstag, 27.10.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2390466-thank-you-for-testing-the-wow-forever-beta/"
+  },
+  {
+   "at": "2026-10-23T12:00:00Z",
+   "title": "Layering soll bis zum Launch besser werden",
+   "channel": "Presse",
+   "status": "Offiziell (zitiert)",
+   "detail": "GameSpot zitiert Clay Stone: Spieler auf Booten und Zeppelinen sollen nach Ladebildschirmen zusammenbleiben und große Gruppen an Hauptstädten nicht mehr getrennt werden; ein Rest Layering bleibt laut Blizzard bestehen.",
+   "link": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/"
+  },
+  {
+   "at": "2026-10-23T12:00:00Z",
+   "title": "WoW Weekly: Termine zum Launch",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Wochenübersicht nennt Namensreservierung 27.10. (Europa 18:00 Uhr MEZ) bis 3.11., Rulesets statt Realm-Auswahl und die Raids ab 9. Dezember.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24313106-dive-into-wow-forever-the-gods-of-zulaman-hallows-end-and-more-in-wow-weekly/"
+  },
+  {
+   "at": "2026-10-22T20:19:00Z",
+   "title": "Beta-Realm-Neustart um 14:00 Uhr PDT",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Kaivax kündigt einen schnellen Neustart der Beta-Realms um 14:00 Uhr PDT (23:00 Uhr deutscher Zeit) an, Warnungen ab 15 Minuten vorher im Spiel.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2389801-beta-realm-restart-today-at-200-pm-pdt/"
+  },
+  {
+   "at": "2026-10-22T17:00:00Z",
+   "title": "Beta-Abschlussevent gestartet",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "24-Stunden-Event bis Freitag 23.10., 10:00 Uhr PDT, in Zephras Isle, Dun Morogh, Elwynn, Teldrassil, Durotar, Tirisfal und Mulgore; Inhalte erscheinen laut Blizzard vermutlich nicht im Launch-Spiel.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2389633-the-wow-forever-beta-celebration-is-underway/"
+  },
+  {
+   "at": "2026-10-22T16:21:00Z",
+   "title": "Podcast Episode 5: End-of-Beta-Special",
+   "channel": "Podcast",
+   "status": "Offiziell",
+   "detail": "Fünfte Folge des offiziellen Podcasts als Beta-Abschluss-Special mit dem Entwicklerteam.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2389565-the-wow-forever-podcast-episode-5-end-of-beta-special/"
+  },
+  {
+   "at": "2026-10-22T15:44:00Z",
+   "title": "Ruleset-Artikel aktualisiert: Hardcore erst nach Launch",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Rulesets Normal, PvP, Roleplay und Roleplay-PvP (ab 4.11.); Hardcore kommt laut Update erst nach dem Launch.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24302070-updated-10-22-choose-your-ruleset-in-world-of-warcraft-forever/"
+  },
+  {
+   "at": "2026-10-22T15:33:00Z",
+   "title": "Rollenspiel-PvP-Ruleset kommt zum Launch",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Entwickler Aggrend: Das Roleplay-PvP-Ruleset wird ergänzt und startet am 4. November; Auswahl und Namensreservierung sollen ab 27.10. möglich sein.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2389502-the-roleplay-pvp-ruleset-is-coming-to-wow-forever/"
+  },
+  {
+   "at": "2026-10-21T21:00:00Z",
+   "title": "Stresstest läuft: Beta geht offline",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Community-Manager Kaivax: Beta-Realms gehen für den Stresstest offline, US-Start 14:00 Uhr PDT (23:00 Uhr deutscher Zeit); Auswahl über 'Stress Test' in der Battle.net-App.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2388547-testing-wow-forever-today-october-21/"
+  },
+  {
+   "at": "2026-10-21T12:00:00Z",
+   "title": "Camping-System und Lagerfeuer",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Das Basis-Lagerfeuer des Kochens wird zum Gemeinschaftslager: bis zu drei Handwerksobjekte (z. B. Schärfrad für Stärke), Wirkung nach mindestens 1 Minute am Lager, gemeinsamer 1-Stunden-Cooldown.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24301516-gather-around-the-campfire-in-world-of-warcraft-forever/"
+  },
+  {
+   "at": "2026-10-21T12:00:00Z",
+   "title": "Beta endet am 23. Oktober",
+   "channel": "Presse",
+   "status": "Bericht",
+   "detail": "MassivelyOP: Die dreiwöchige Beta endet am Morgen des 23.10.; Stresstest am 21.10. von 17 bis 21 Uhr Eastern (Blizzard nennt 14:00 PDT als Start).",
+   "link": "https://massivelyop.com/2026/10/21/world-of-warcraft-forever-winds-down-beta-runs-stress-test-today-and-preps-name-reservation-for-next-week/"
+  },
+  {
+   "at": "2026-10-20T12:00:00Z",
+   "title": "Namensreservierung ab 27. Oktober",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Frühe Namensreservierung 27.10. bis 3.11. für Vorkäufer und Besitzer der Digital Upgrade/Collector's Edition: Europa Start 27.10. um 18:00 Uhr MEZ, bis zu drei Charaktere über alle Rulesets.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24303866-claim-your-world-of-warcraft-forever-character-names/"
+  },
+  {
+   "at": "2026-10-20T12:00:00Z",
+   "title": "Raid-Überblick: Orte, Größen, Einstimmung",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Erste drei Raids ab 9. Dezember: The Barrow Deeps (10 Spieler), Hyjal Summit (20) und Onyxia's Lair (40, einzige mit Einstimmung über das Drakefire-Amulett).",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24303009-world-of-warcraft-forever-raid-overviewlocations-raid-sizes-and-attunement/"
+  },
+  {
+   "at": "2026-10-20T12:00:00Z",
+   "title": "Neun Launch-Dungeons vorgestellt (Stufe 13-60)",
+   "channel": "Blizzard News",
+   "status": "Offiziell",
+   "detail": "Blizzard-Artikel nennt neun Fünf-Spieler-Dungeons von Hall of Thanes (13-18) bis Blackmaw Hold (55-60) und Shaper's Terrace (58-60), verteilt auf Östliche Königreiche und Kalimdor.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/24301455-explore-the-new-dungeons-of-world-of-warcraft-forever/"
+  },
+  {
+   "at": "2026-10-16T12:00:00Z",
+   "title": "Datamined im neuesten Beta-Build",
+   "channel": "Forum",
+   "status": "Offiziell",
+   "detail": "Community-Manager Kaivax: Aus dem Beta-Build ausgelesene Kunst-Assets seien nicht für diese Version von WoW vorgesehen.",
+   "link": "https://www.bluetracker.gg/wow/topic/us-en/2385060-datamined-in-the-latest-beta-build/"
+  },
   {
    "at": "2026-10-16T12:00:00Z",
    "title": "Stresstest verschoben auf 21. Oktober",
